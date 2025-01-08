@@ -1,5 +1,1 @@
 theme: jekyll-theme-minimal
-
-- name: Clean and Install Gems
-  run: |
-    bundle install
